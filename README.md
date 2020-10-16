@@ -15,4 +15,4 @@ Hi, I am Michael Fuchs, a passionate developer from Germany. Furthermore I study
 - 💬 Ask me about anything [here](https://github.com/theexiile1305/theexiile1305/issues)
 - 📫 How to reach me via Twitter, Mail (GPG prefered) or keybase.io
 - ⚡ Fun fact: Every month, over 5,000 new **computer** viruses are released.
-- 🔑 GPG Key: Download my public key [here](https://raw.githubusercontent.com/theexiile1305/theexiile1305/main/public_key.asc) and verify ith with the Fingerprint: 112D 2BBC 7AFF 2700 4F50  0CED 4E0A B42B A799 4506
+- 🔑 GPG Key: Download my public key [here](https://raw.githubusercontent.com/theexiile1305/theexiile1305/main/public_key.asc) and verify it with the Fingerprint: 112D 2BBC 7AFF 2700 4F50  0CED 4E0A B42B A799 4506
