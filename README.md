@@ -6,7 +6,7 @@
  | [Homepage](https://michifuchs.com)
 
 
-Hi, I am Michael Fuchs, a passionate developer from Germany. Furthermore I study M. Sc. IT-Security at the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and work part-time at a great company called [inovex](https://www.inovex.de/en/).
+Hi, I am Michael Fuchs, a passionate software developer from Germany. Furthermore I study M. Sc. IT-Security at the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html) and work part-time at a great company called [inovex](https://www.inovex.de/en/).
 
 
 - 🔭 I’m currently working on the landingpages for some charity organisation
