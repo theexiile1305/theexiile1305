@@ -6,11 +6,11 @@
  | [Homepage](https://michifuchs.com)
 
 
-Hi, I am Michael Fuchs, a passionate software developer from Germany. Furthermore I study M. Sc. IT-Security at the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html) and work part-time at a great company called [inovex](https://www.inovex.de/en/).
+Hi, I am Michael Fuchs, a passionate software developer from Germany. Furthermore I study M. Sc. IT-Security at the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html) and work part-time as a Junior Site Reliability Engineer to administrate it services at the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html).
 
 
 - 🔭 I’m currently working on the landingpages for some charity organisation
-- 🌱 I’m currently learning Kotlin, GraphQL and advanced Spring Boot knowledge
+- 🌱 I’m currently resarching in the fields of strong identity management systems and zero trust networks
 - 👯 I’m looking to collaborate on some open source project prefered with data-privacy and it security
 - 💬 Ask me about anything [here](https://github.com/theexiile1305/theexiile1305/issues)
 - 📫 How to reach me via Twitter, Mail (GPG prefered) or keybase.io
